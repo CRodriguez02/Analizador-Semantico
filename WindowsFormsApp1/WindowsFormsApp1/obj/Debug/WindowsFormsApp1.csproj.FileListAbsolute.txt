@@ -1,0 +1,30 @@
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Analizador.resources
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\crodr\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Analizador.resources
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Analizador.resources
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\CUCEI\21B-Sexto Semestre-INCO\Seminario Traductores de Lenguajes II\Analizador\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
